@@ -12,3 +12,4 @@
 /home/bchambers/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.pdb
 /home/bchambers/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.genruntimeconfig.cache
 /home/bchambers/HelloWorldApp/obj/Debug/net9.0/ref/HelloWorldApp.dll
+/home/bchambers/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.sourcelink.json
